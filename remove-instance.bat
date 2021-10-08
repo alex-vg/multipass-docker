@@ -1,0 +1,2 @@
+multipass delete dockerhost
+multipass purge
